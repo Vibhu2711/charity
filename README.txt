@@ -4,11 +4,12 @@ A fully responsive charity management web application built using HTML5, CSS3, B
 This project helps NGOs manage donors, donations, feedback, and user authentication through a simple and user-friendly interface.
 
 🚀 Features
+
 👥 User Management
 
-Donor registration & login
-NGO registration & login
-Password reset & recovery
+-Donor registration & login
+-NGO registration & login
+-Password reset & recovery
 
 💝 Donation Management
 
