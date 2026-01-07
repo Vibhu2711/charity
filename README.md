@@ -6,9 +6,9 @@ This project helps NGOs manage donors, donations, feedback, and user authenticat
 🚀 Features
 👥 User Management
 
--Donor registration & login
--NGO registration & login
--Password reset & recovery
+Donor registration & login
+NGO registration & login
+Password reset & recovery
 
 💝 Donation Management
 
