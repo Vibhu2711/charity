@@ -32,15 +32,6 @@ This project helps NGOs manage donors, donations, feedback, and user authenticat
 
 ---
 
-### 📱 UI & UX
-
-* Fully responsive design
-* Bootstrap-based layout
-* Mobile, tablet & desktop friendly
-* Clean and user-friendly interface
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
